@@ -1,0 +1,22 @@
+h1{
+    text-align: center; color: black;
+}
+h2{
+    text-align: left; color: blue;
+}
+h3{
+    text-align: left; color: black;
+}
+h4{
+    color: red; font-style: italic; font-weight: normal;
+}
+body{
+    background-color: #EEEEEE;
+}
+a.no-visited-link {
+    color: blue; /* Set the default link color */
+  }
+  
+  a.no-visited-link:visited {
+    color: blue; /* Set the visited link color to the same color as the default link color */
+  }
